@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Data/Data.csproj" Id="b1129bb5-7962-42ff-88e3-4ed9d6237c12" />
+  <Project Path="Models/Models.csproj" Id="6e3ffb89-c76a-404b-98ed-fb9d47633838" />
   <Project Path="Web/Web.csproj" />
 </Solution>
